@@ -1,0 +1,95 @@
+body{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    margin-left: 220px;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgray;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    height: 490px;
+    width: 330px;
+    background-color: rgb( 255, 255, 255);
+    align-items: center;
+}
+
+.celular{
+    height: 550px;
+    width: 420px;
+    padding: 30px; 
+}
+
+.insta{
+    margin-top: 0px;
+    height: 63px;
+    width: 200px;
+}
+
+.subtitle{
+    margin-top: 5px;
+    font-size: 18px;
+}
+p{
+    margin-top: 10px;
+    color: darkgray;
+}
+
+button{
+    margin-top: 10px;
+    height: 30px;
+    min-height: 30px;
+    width: 285px;
+    min-width: 285;
+    background-color:rgb(99, 141, 255);
+    border-radius: 5px;
+    border:  transparent;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#logo-face{
+    position:relative;
+    max-width: 15px;
+    max-width: 15px;
+}
+input{
+    height: 30px;
+    width:  280px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: rgb(240, 240, 240) ;
+    border-radius: 5px;
+    border:solid 1px rgb(218, 218, 218);
+    color: rgb(209, 209, 209);
+    padding-left: 10px;
+}
+span{
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 25px;
+    height: 45px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb( 255, 255, 255);
+}
+
+#login{
+    color: blue;
+    text-decoration:underline;
+}

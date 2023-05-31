@@ -1,0 +1,89 @@
+#icon{
+    height: 30px;
+    width: 30px;
+}
+body{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    max-width: 900px;
+    margin-left: 220px;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+aside{
+    margin-top: 30px;
+    height: 400px;
+    width: 330px;
+    background-color: rgb( 255, 255, 255);
+    line-height: 20px;
+}
+.celular{
+    height: 550px;
+    width: 420px;
+    padding: 30px; 
+}
+.insta{
+    height: 80px;
+    width: 220px;
+}
+
+.subtitle{
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+button{
+    margin-top: 5px;
+    height: 30px;
+    width: 280px;
+    background-color:rgb(99, 141, 255);
+    border-radius: 5px;
+    border:  transparent;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+#senha{
+    color: gray;
+}
+
+#logo-face{
+    position:relative;
+    max-width: 15px;
+    max-width: 15px;
+}
+input{
+    height: 30px;
+    width:  280px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: rgb(240, 240, 240) ;
+    border-radius: 5px;
+    border:solid 1px gray;
+}
+
+footer{
+    margin-top: 20px;
+    height: 45px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb( 255, 255, 255);
+}
+
+#cadastre-se{
+    color: blue;
+    text-decoration:underline;
+}
+#estensao{
+    margin-top: 15px;
+    width: 330px;
+}
