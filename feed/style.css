@@ -1,0 +1,55 @@
+body{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    max-height: 400px;
+    background-color: darkgray;
+    justify-content: space-between;
+}
+#menu{
+    width: 250px;
+    height: 700px;
+    max-width: 250px;
+    max-height: 700px;
+    background-color: white;
+}
+img{
+    max-width: 180px;
+}
+li{
+    margin-top: 40px;
+}
+
+#mae{
+    width: 500px;
+    height: 700px;
+    max-width: 500px;
+    max-height: 700px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: none;
+}
+#story{
+    margin-top: -27px;
+    height: 150px;
+    max-height: 150px;
+    background-color: white;
+}
+#feed{
+    height: 531px;
+    max-height: 531px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+#menu-secundario{
+    width: 450px;
+    height: 700px;
+    max-width: 450px;
+    max-height: 700px;
+    flex-direction: column;
+    margin-left: 15px;
+    background-color: white;
+    padding-left: 20px;
+    line-height: 80px;
+}
