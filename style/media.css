@@ -1,0 +1,22 @@
+@media screen and (max-width:750px){
+    body{
+        border: solid red;
+        margin-left: -0px;
+        width: 290px;
+        background-color:rgb( 255, 255, 255);
+        scale: 0.9;
+    }
+    main{
+        border: solid blue;
+        justify-items: center;
+        align-items: center;
+        width: 280px;
+    }
+    .celular{
+        opacity: 0;
+        height: 0px;
+        width: 0px;
+        padding: 0px; 
+    }
+    
+}
