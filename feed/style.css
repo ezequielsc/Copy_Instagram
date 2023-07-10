@@ -112,6 +112,28 @@ a{
             scale: 3.27;}
             #img-feed img{
                 margin-top: 170px;}
+            #botoes-like{
+                margin-top: -15px;
+                margin-left: -385px;
+            }
+            #botoes-like img{    
+                width: 20px;
+                height: 20px;
+                margin-right: 5px;
+            }
+            #text-commit{
+                margin-left: -25px;
+                color: black;
+            }
+            #text-commit p{
+                margin-left: 10px;
+            }
+            #curtida2{
+                margin-top: 3px;
+                margin-bottom: -9px;
+            }
+
+
 
 /* aqui começa a terceira parte da tela*/
 #menu-secundario{
